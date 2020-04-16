@@ -12,3 +12,4 @@
 #### [安全日报 2020年04月13日](https://github.com/hetianlab/secnewstoday/blob/master/April.2020/secnews-20200413.md)
 #### [安全日报 2020年04月14日](https://github.com/hetianlab/secnewstoday/blob/master/April.2020/secnews-20200414.md)
 #### [安全日报 2020年04月15日](https://github.com/hetianlab/secnewstoday/blob/master/April.2020/secnews-20200415.md)
+#### [安全日报 2020年04月16日](https://github.com/hetianlab/secnewstoday/blob/master/April.2020/secnews-20200416.md)

@@ -18,3 +18,4 @@
 #### [安全日报 2020年06月16日](https://github.com/hetianlab/secnewstoday/blob/master/June.2020/secnews-20200616.md)
 #### [安全日报 2020年06月17日](https://github.com/hetianlab/secnewstoday/blob/master/June.2020/secnews-20200617.md)
 #### [安全日报 2020年06月18日](https://github.com/hetianlab/secnewstoday/blob/master/June.2020/secnews-20200618.md)
+#### [安全日报 2020年06月19日](https://github.com/hetianlab/secnewstoday/blob/master/June.2020/secnews-20200619.md)

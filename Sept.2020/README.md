@@ -17,3 +17,4 @@
 #### [安全日报 2020年09月15日](https://github.com/hetianlab/secnewstoday/blob/master/Sept.2020/secnews-20200915.md)
 #### [安全日报 2020年09月16日](https://github.com/hetianlab/secnewstoday/blob/master/Sept.2020/secnews-20200916.md)
 #### [安全日报 2020年09月17日](https://github.com/hetianlab/secnewstoday/blob/master/Sept.2020/secnews-20200917.md)
+#### [安全日报 2020年09月18日](https://github.com/hetianlab/secnewstoday/blob/master/Sept.2020/secnews-20200918.md)

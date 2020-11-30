@@ -24,4 +24,5 @@
 #### [安全日报 2020年11月25日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2020/secnews-20201125.md)
 #### [安全日报 2020年11月26日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2020/secnews-20201126.md)
 #### [安全日报 2020年11月27日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2020/secnews-20201127.md)
+#### [安全日报 2020年11月30日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2020/secnews-20201130.md)
 

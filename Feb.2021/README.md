@@ -10,3 +10,4 @@
 #### [安全日报 2021年02月04日](https://github.com/hetianlab/secnewstoday/blob/master/Feb.2021/secnews-20210204.md)
 #### [安全日报 2021年02月05日](https://github.com/hetianlab/secnewstoday/blob/master/Feb.2021/secnews-20210205.md)
 #### [安全日报 2021年02月07日](https://github.com/hetianlab/secnewstoday/blob/master/Feb.2021/secnews-20210207.md)
+#### [安全日报 2021年02月08日](https://github.com/hetianlab/secnewstoday/blob/master/Feb.2021/secnews-20210208.md)

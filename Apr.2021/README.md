@@ -14,3 +14,6 @@
 #### [安全日报 2021年04月13日](https://github.com/hetianlab/secnewstoday/blob/master/Apr.2021/secnews-20210413.md)
 #### [安全日报 2021年04月15日](https://github.com/hetianlab/secnewstoday/blob/master/Apr.2021/secnews-20210415.md)
 #### [安全日报 2021年04月16日](https://github.com/hetianlab/secnewstoday/blob/master/Apr.2021/secnews-20210416.md)
+#### [安全日报 2021年04月19日](https://github.com/hetianlab/secnewstoday/blob/master/Apr.2021/secnews-20210419.md)
+#### [安全日报 2021年04月20日](https://github.com/hetianlab/secnewstoday/blob/master/Apr.2021/secnews-20210420.md)
+

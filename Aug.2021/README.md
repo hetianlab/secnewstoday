@@ -10,3 +10,8 @@
 #### [安全日报 2021年08月04日](https://github.com/hetianlab/secnewstoday/blob/master/Aug.2021/secnews-20210804.md)
 #### [安全日报 2021年08月05日](https://github.com/hetianlab/secnewstoday/blob/master/Aug.2021/secnews-20210805.md)
 #### [安全日报 2021年08月06日](https://github.com/hetianlab/secnewstoday/blob/master/Aug.2021/secnews-20210806.md)
+#### [安全日报 2021年08月09日](https://github.com/hetianlab/secnewstoday/blob/master/Aug.2021/secnews-20210809.md)
+#### [安全日报 2021年08月10日](https://github.com/hetianlab/secnewstoday/blob/master/Aug.2021/secnews-20210810.md)
+#### [安全日报 2021年08月11日](https://github.com/hetianlab/secnewstoday/blob/master/Aug.2021/secnews-20210811.md)
+
+

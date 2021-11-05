@@ -8,3 +8,4 @@
 #### [安全日报 2021年11月02日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2021/secnews-20211102.md)
 #### [安全日报 2021年11月03日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2021/secnews-20211103.md)
 #### [安全日报 2021年11月04日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2021/secnews-20211104.md)
+#### [安全日报 2021年11月05日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2021/secnews-20211105.md)

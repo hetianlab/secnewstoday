@@ -17,3 +17,6 @@
 #### [安全日报 2021年11月15日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2021/secnews-20211115.md)
 #### [安全日报 2021年11月16日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2021/secnews-20211116.md)
 #### [安全日报 2021年11月17日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2021/secnews-20211117.md)
+#### [安全日报 2021年11月18日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2021/secnews-20211118.md)
+#### [安全日报 2021年11月19日](https://github.com/hetianlab/secnewstoday/blob/master/Nov.2021/secnews-20211119.md)
+

@@ -6,3 +6,5 @@
 
 #### [安全日报 2021年12月01日](https://github.com/hetianlab/secnewstoday/blob/master/Dec.2021/secnews-20211201.md)
 #### [安全日报 2021年12月02日](https://github.com/hetianlab/secnewstoday/blob/master/Dec.2021/secnews-20211202.md)
+#### [安全日报 2021年12月03日](https://github.com/hetianlab/secnewstoday/blob/master/Dec.2021/secnews-20211203.md)
+#### [安全日报 2021年12月06日](https://github.com/hetianlab/secnewstoday/blob/master/Dec.2021/secnews-20211206.md)

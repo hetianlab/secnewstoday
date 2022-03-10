@@ -8,7 +8,7 @@
 #### [安全日报 2022年03月02日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220302.md)
 #### [安全日报 2022年03月03日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220303.md)
 #### [安全日报 2022年03月04日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220304.md)
-#### [安全日报 2022年03月05日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220305.md)
+#### [安全日报 2022年03月07日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220307.md)
 #### [安全日报 2022年03月08日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220308.md)
 #### [安全日报 2022年03月09日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220309.md)
 #### [安全日报 2022年03月10日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220310.md)

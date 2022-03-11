@@ -12,3 +12,4 @@
 #### [安全日报 2022年03月08日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220308.md)
 #### [安全日报 2022年03月09日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220309.md)
 #### [安全日报 2022年03月10日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220310.md)
+#### [安全日报 2022年03月11日](https://github.com/hetianlab/secnewstoday/blob/master/Mar.2022/secnews-20220311.md)

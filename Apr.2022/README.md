@@ -24,3 +24,4 @@
 #### [安全日报 2022年04月26日](https://github.com/hetianlab/secnewstoday/blob/master/Apr.2022/secnews-20220426.md)
 #### [安全日报 2022年04月27日](https://github.com/hetianlab/secnewstoday/blob/master/Apr.2022/secnews-20220427.md)
 #### [安全日报 2022年04月28日](https://github.com/hetianlab/secnewstoday/blob/master/Apr.2022/secnews-20220428.md)
+#### [安全日报 2022年04月29日](https://github.com/hetianlab/secnewstoday/blob/master/Apr.2022/secnews-20220429.md)
